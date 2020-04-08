@@ -47,6 +47,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/alihsoff/sfg-pet-clinic.git</developerConnection>
-        <tag>sfg-pet-clinic-0.0.1-SNAPSHOT</tag>
+        <tag>sfg-pet-clinic-0.0.1</tag>
     </scm>
 </project>
